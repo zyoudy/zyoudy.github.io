@@ -1,0 +1,201 @@
+body {
+  background-color: #f98866;
+  font-family: 'Gugi' , cursive;
+}
+.container {
+  padding: 90px;
+  margin: 19px;
+  padding-left: 500px;
+}
+.email {
+background-color: #80bd9e;
+border-radius: 10px;
+box-sizing: content-box;
+border: 12px solid #80bd9e;
+font-family: 'Gugi' , cursive;
+
+}
+#Button {
+  height: 45px;
+  width: 90px;
+  background-color: #89da59;
+  font-family: 'Gugi' , cursive;
+
+}
+.n {
+border: 10px solid #aef344;
+height: 200px;
+padding-left: 440px;
+box-sizing: 90px;
+margin-left: 70px;
+margin-right: 90px;
+}
+.new  {
+  margin-right: 400px;
+  width: 232px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: white;
+  border: 1px solid #fff;
+  border-radius: 15px 50px 30px;
+  font-family: 'Gaegu', cursive;
+
+
+}
+.new li {
+  float: left;
+
+}
+
+.new  a {
+  padding: 10px;
+  display: block;
+  width: auto;
+  background-color: inherit;
+  text-decoration: none;
+  color: inherit;
+  font-family: 'Gaegu', cursive;
+  font-size: 1em;
+}
+
+.red {
+  margin-right: 400px;
+  width: 232px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #aef3fa;
+  border: 1px solid #fff;
+border-radius: 15px 50px 30px;
+font-family: 'Gaegu', cursive;
+}
+
+.red li {
+  float: left;
+}
+
+.red a {
+  padding: 10px;
+  display: block;
+  width: auto;
+  background-color: inherit;
+  text-decoration: none;
+  color: inherit;
+  font-family: 'Gaegu', cursive;
+  font-size: 1em;
+}
+
+ul {
+  margin-right: 400px;
+  width: 232px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: white;
+  border: 1px solid #fff;
+border-radius: 15px 50px 30px;
+font-family: 'Gaegu', cursive;
+}
+li {
+  float: left;
+}
+a {
+  padding: 10px;
+  display: block;
+  width: auto;
+  background-color: #FFB750;
+  text-decoration: none;
+  color: inherit;
+  font-family: 'Gaegu', cursive;
+  font-size: 1em;
+}
+
+
+
+
+.green {
+  margin-right: 400px;
+  width: 232px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #aef3fa;
+  border: 1px solid #fff;
+border-radius: 15px 50px 30px;
+font-family: 'Gaegu', cursive;
+}
+
+.green li {
+  float: left;
+}
+
+.green a {
+  padding: 10px;
+  display: block;
+  width: auto;
+  background-color: inherit;
+  text-decoration: none;
+  color: inherit;
+  font-family: 'Gaegu', cursive;
+  font-size: 1em;
+}
+
+.blue {
+  margin-right: 400px;
+  width: 232px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #aef3fa;
+  border: 1px solid #fff;
+border-radius: 15px 50px 30px;
+font-family: 'Gaegu', cursive;
+}
+
+.blue li {
+  float: left;
+}
+
+.blue a {
+  padding: 10px;
+  display: block;
+  width: auto;
+  background-color: inherit;
+  text-decoration: none;
+  color: inherit;
+  font-family: 'Gaegu', cursive;
+  font-size: 1em;
+}
+.white {
+  margin-right: 400px;
+  width: 232px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #aef3fa;
+  border: 1px solid #fff;
+border-radius: 15px 50px 30px;
+font-family: 'Gaegu', cursive;
+}
+
+.white li {
+  float: left;
+}
+
+.white a {
+  padding: 10px;
+  display: block;
+  width: auto;
+  background-color: inherit;
+  text-decoration: none;
+  color: inherit;
+  font-family: 'Gaegu', cursive;
+  font-size: 1em;
+}
